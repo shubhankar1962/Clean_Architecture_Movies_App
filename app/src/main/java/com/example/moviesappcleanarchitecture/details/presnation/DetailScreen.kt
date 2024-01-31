@@ -44,9 +44,6 @@ import com.example.moviesappcleanarchitecture.movielist.data.remote.MovieApi
 import com.example.moviesappcleanarchitecture.movielist.util.RatingBar
 
 
-/**
- * @author Android Devs Academy (Ahmed Guedmioui)
- */
 @Composable
 fun DetailsScreen() {
 
